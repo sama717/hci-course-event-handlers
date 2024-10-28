@@ -1,3 +1,5 @@
+import '../components/propagation.css'
+
 function Propagation (){
     const codeSnippet =`
     <div className="Toolbar" onClick={() => {

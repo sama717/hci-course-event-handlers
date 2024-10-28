@@ -19,6 +19,10 @@ button:hover{
     background-color: #48ABD5;
 }
 
+button:focus{
+    outline: none;
+}
+
 code {
     color: #F25F5C;
 }

@@ -1,0 +1,12 @@
+.Toolbar{
+    padding: 1em 2em 0em;
+    background-color: #FED24C;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 50%;
+    transition: all 0.3s;
+}
+
+.Toolbar:hover{
+    background-color: #ffe492;
+}
